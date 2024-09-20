@@ -74,8 +74,6 @@ After running the script, the folder will be organized like this:
 ```
 
 
-```
-
 ### Key Sections in This `README.md`:
 - **Project Title and Description**: A brief explanation of what the project does.
 - **Features**: Lists the capabilities of your file sorter script.
@@ -83,4 +81,4 @@ After running the script, the folder will be organized like this:
 - **How to Use**: Explains how to run the script or notebook step by step.
 - **Example**: Demonstrates how files are sorted and organized in a sample folder.
 
-```
+

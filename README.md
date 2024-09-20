@@ -19,7 +19,7 @@ This project is a Python-based script designed to automatically sort files in a 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/file-sorter.git
+   git clone https://github.com/atomos2/file-sorter.git
    cd file-sorter
    ```
 

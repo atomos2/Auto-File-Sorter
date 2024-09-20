@@ -81,4 +81,6 @@ After running the script, the folder will be organized like this:
 - **Features**: Lists the capabilities of your file sorter script.
 - **Requirements**: Specifies Python and the required libraries.
 - **How to Use**: Explains how to run the script or notebook step by step.
-- **Example**: Demonstrates how files are sorted and organized in a sample folder. 
+- **Example**: Demonstrates how files are sorted and organized in a sample folder.
+
+```
